@@ -1,10 +1,10 @@
 <center><h1>War-Cards-Game</h1></center>
 <h3>It is a cards game based on the concept of War built using Object Oriented Programming in Python.</h3>
 
-<center><h1>WELCOME TO YOUR OOP PROJECT</h3></center>
+<center><h1>WELCOME TO WAR CARDS OOP PROJECT</h3></center>
 
-For this project you will be using OOP to create a card game. This card game will
-be the card game "War" for two players, you an the computer. If you don't know
+For this project I used OOP to create this card game. This card game will
+be the card game "War" for two players, you and the computer. If you don't know
 how to play "War" here are the basic rules:<br>
 The deck is divided evenly, with each player receiving 26 cards, dealt one at a time,
 face down. Anyone may deal first. Each player places his stack of cards face down,
